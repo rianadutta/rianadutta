@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Riana and I'm a third year software engineering student at McGill University. I'm interested in computer vision, data science, algorithms. I'm interested in exploring the applications of technology in fields like healthcare and sociology. I have experience in Java, Python, Bash, JavaScript, and C and have worked on several full stance projects and machine learning models. 
+My name is Riana and I'm a third year software engineering student at McGill University. I'm interested in computer vision, data science, algorithms. I'm interested in exploring the applications of technology in fields like healthcare and sociology. I have experience in Java, Python, Bash, JavaScript, and C.
 
 Some projects I've worked on:
 - [Movie Recommender](https://github.com/rianadutta/MovieRecommender)
