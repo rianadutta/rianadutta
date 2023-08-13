@@ -1,4 +1,12 @@
 ### Hi there 👋
+My name is Riana and I'm a third year software engineering student at McGill University. I'm interested in computer vision, data science, algorithms. I have experience in Java, Python, Bash, JavaScript, and C. 
+
+Some projects I've worked on:
+- [Movie Recommender](https://github.com/rianadutta/MovieRecommender)
+- [Course Planner](https://github.com/rianadutta/codejam)
+
+Reach me at: riana.dutta@mail.mcgill.ca or on [LinkedIn](https://www.linkedin.com/in/riana-dutta/https://www.linkedin.com/in/riana-dutta/)
+
 
 <!--
 **rianadutta/rianadutta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
