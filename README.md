@@ -7,7 +7,7 @@ Some projects I've worked on:
 - [Quantum Battleship](https://github.com/gabriellemacinnes/Quantum_Battleship/tree/main)
 - [DevMate](https://github.com/rylandonohoe/DevMate)
 
-Reach me at: riana.dutta@mail.mcgill.ca or on [LinkedIn](https://www.linkedin.com/in/riana-dutta/https://www.linkedin.com/in/riana-dutta/)
+Reach me at: riana.dutta@mail.mcgill.ca or on [LinkedIn](https://www.linkedin.com/in/riana-dutta)
 
 
 <!--
